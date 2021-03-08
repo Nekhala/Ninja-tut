@@ -11,7 +11,7 @@ export default {
   components: { Modal },
   data() {
     return {
-      title: 'My first vue app :)',
+      title: 'My first vue app :))',
       header: 'Sign up for giveaway',
       text: 'Grab your ninja swag for half price!'
     }
